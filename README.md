@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KinderSad06
-- 👀 I’m interested in sports console games and others
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on nothing really
+- 👀 I’m interested in console games, coding & other stuff
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me discord @B!n9 B0n9 #6520
 
 <!---
